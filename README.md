@@ -36,14 +36,14 @@ During my 6-month internship as a Full Stack Developer, I:
 ## 📫 How to Reach Me
 
 - **Email:**     shishiwali@gmail.com
-- **LinkedIn:**  [Shiwali Karn](https://www.linkedin.com/in/shiwalikarn/)
+- **LinkedIn:**  [Shiwali Karn](https://www.linkedin.com/in/shiwali-karn-b33b26199/)
 - **Portfolio:** [shiwalikarn.porfolio](https://shiwalikarn.github.io/Porfolio_Shiwali/)
 
 ---
 
 ### 🔗 Connect with me on:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shiwalikarn/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shiwali-karn-b33b26199/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ShiwaliKarn)
 
 ---
