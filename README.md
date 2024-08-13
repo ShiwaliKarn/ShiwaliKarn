@@ -9,8 +9,7 @@ Hello! I'm Shiwali Karn, a passionate Full Stack Developer with a strong foundat
 ## 🌟 About Me
 
 - 🔭 I’m currently exploring new opportunities to apply my skills and contribute to innovative projects.
-- 🌱 I’m constantly learning and improving my skills, particularly in **TypeScript** and **Node.js**.
-- 👯 I’m looking to collaborate on open-source projects that challenge me and help me grow.
+- 🌱 I’m constantly learning and improving my skills.
 - ⚡ Fun fact: I love solving complex problems and am always excited to dive into new technologies.
 
 ---
