@@ -51,7 +51,7 @@ During my 6-month internship as a Full Stack Developer, I:
 ## 🚀 My Projects
 
 - **[Blue Tomato](https://blue-tomato.vercel.app/):** A full stack a comprehensive platform for ordering and delivering food features include menu browsing order tracking and delivery management
-- **[Gemini Clone](https://gemini-clone-amber-five.vercel.app/):** A full functional Gemini Clone
+- **[Gemini Clone](https://gemini-clone-amber-five.vercel.app/):** A fully functional Gemini Clone
 
 Feel free to check out my repositories to see more of my work!
 
